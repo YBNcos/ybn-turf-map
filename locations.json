@@ -1,0 +1,62 @@
+[
+
+	{
+		"type": "Territoires",
+		"title": "Tree Top Piru",
+		"notes": "Les Tree Top Piru (TTP), également connus sous le nom de Tree Top Bompton Piru et de West Side Trees, sont principalement un gang de rue afro-américain situé dans le West Side de Compton, en Californie. L'histoire des Tree Top Piru remonte aux années 1970. Dans les années 1980, ils se sont forgé une réputation de violence. Ce gang est internationalement connu dans tous les États-Unis, avec une branche populaire à Baltimore, dans le Maryland.",
+		"wiki_link": "https://ybncos.fr/index.php?threads/400-block-ttp.151/",
+		"order": 0,
+		"strokecolor": "FF3333",
+		"fillcolor": "FF3333",
+		"latlngarray": [
+            {"lat": -74.277, "lng": -3.556},
+            {"lat": -74.761, "lng": -1.437},
+            {"lat": -74.865, "lng": -0.998},
+            {"lat": -74.951, "lng": -0.591},
+            {"lat": -75.289, "lng": 0.079},
+            {"lat": -75.188, "lng": 1.002},
+            {"lat": -74.839, "lng": 1.903},
+            {"lat": -74.170, "lng": 2.133},
+            {"lat": -73.907, "lng": 0.431},
+            {"lat": -73.506, "lng": -1.261}
+
+		]
+	},
+	
+	{
+		"type": "Territoires",
+		"title": "98 Main Street Mafia Crips",
+		"notes": "98 Main Street Mafia Crips est un gang à prédominance afro-américaine localisé au est de Los Angeles en Californie. Leur territoire se situe sur la 98e, entre Wall Street et Main Street, et s'étend de l'avenue Colden au nord, de la 104e au sud, de Wall Street à l'est et l'autoroute 110 à l'ouest. Le gang a été fondé au début des années 1970, les 98 et 84 Main Street Mafia Crips forment les Main Street Mafia Crips et plus récemment sont connus en tant que FSTC Main Street Mafia Crip, a/k/a FreeSmokeGang, TakedownCrew, CheckoutGang, des petits sub-sets des Main Street Mafia Crip des 98 et 84 Main Street Mafia Crips qui ont fusionné dans un même quartier.",
+		"wiki_link": "https://ybncos.fr/index.php?threads/fstc-mafia-crip.155/",
+		"order": 0,
+		"strokecolor": "5b6f96",
+		"fillcolor": "5b6f96",
+		"latlngarray": [
+			{"lat": -77.749, "lng": 7.729},
+			{"lat": -77.809, "lng": 11.311},
+			{"lat": -78.895, "lng": 10.850},
+			{"lat": -78.832, "lng": 7.290}
+
+		]
+	},
+	
+	{
+		"type": "Territoires",
+		"title": "Normandie Lokos",
+		"notes": "La clique Normandie Lokos opère sur Koreatown. Ils font partie de la bannière Westside Mara Salvatrucha et partagent beaucoup des mêmes ennemis que leurs homologues. Les membres du NLS comprennent principalement des personnes d'origine salvadorienne, bien qu'ils étendent également leur recrutement à d'autres origines ethniques d'Amérique centrale, ainsi qu'aux Mexicains.",
+		"wiki_link": "https://ybncos.fr/index.php?threads/normandie-lokos-koreatown.160/",
+		"order": 0,
+		"strokecolor": "0146ab",
+		"fillcolor": "0146ab",
+		"latlngarray": [
+			{"lat": -65.455, "lng": -36.399},
+			{"lat": -65.455, "lng": -33.718},
+			{"lat": -66.633, "lng": -33.740},
+			{"lat": -66.641, "lng": -35.366},
+			{"lat": -66.659, "lng": -36.509},
+			{"lat": -66.458, "lng": -36.635},
+			{"lat": -66.104, "lng": -36.416}
+
+		]
+	}
+]
